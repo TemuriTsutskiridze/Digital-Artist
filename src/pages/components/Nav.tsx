@@ -64,7 +64,7 @@ export default function Nav() {
       {!matches && (
         <div
           onClick={() => setToggled((prevToggle) => !prevToggle)}
-          className="space-y-1.5 cursor-pointer z-20"
+          className="space-y-1.5 cursor-pointer z-50"
         >
           <motion.span
             animate={{ rotateZ: toggled ? 45 : 0, y: toggled ? 8 : 0 }}

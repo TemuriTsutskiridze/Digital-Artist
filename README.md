@@ -1,4 +1,45 @@
-# Astro Starter Kit: Basics
+# Digital-Artist
+
+## [Live URL](https://digital-artist.vercel.app)
+
+## Technologies Used
+
+- Astro
+- React
+- TypeScript
+- motion
+
+## Getting Started
+
+To get a local copy of the project up and running, follow these steps:
+
+1.  Clone the repository:
+
+    ```shell
+    git clone https://github.com/TemuriTsutskiridze/Digital-Artist.git
+    ```
+
+2.  Install the dependencies:
+
+    ```shell
+    cd project-name
+    npm install
+    ```
+
+3.  Start local server:
+    ```shell
+    npm run dev
+    ```
+
+## Design Preview
+
+![main-desktop](./public/preview/main-desktop.png)
+![main-mobile](./public/preview/main-mobile.png)
+![contact-desktop](./public/preview/contact-desktop.png)
+![contact-mobile](./public/preview/contact-mobile.png)
+![navigation-mobile](./public/preview/navigation-mobile.png)
+
+## Astro Starter Kit: Basics
 
 ```
 npm create astro@latest -- --template basics
